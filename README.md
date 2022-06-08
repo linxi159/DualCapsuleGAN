@@ -1,8 +1,7 @@
-#DualCapsuleGAN
+# DualCapsuleGAN
 
 Implementation of [DuCaGAN: Unified Dual Capsule Generative Adversarial Network for Unsupervised Image-to-Image Translation] that learns a mapping from input images to output images. 
-
-![]([https://github.com/linxi159/DualCapsuleGAN/blob/main/example_DuCaGAN.jpg])
+![](https://github.com/linxi159/DualCapsuleGAN/blob/main/example_DuCaGAN.jpg)
 
 ## Setup
 
